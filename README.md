@@ -1,5 +1,5 @@
 # 👨💻 Hi, I'm Sergey! 
-### 🚀 Go Backend Developer | Mobile Developer | 
+### 🚀 Go Backend Developer | Mobile Developer
 
 ---
 
