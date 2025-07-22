@@ -1,4 +1,4 @@
-# 👨💻 Hi, I'm Sergey! 
+# Hi, I'm Sergey! 
 ### 🚀 Go Backend Developer | Mobile Developer
 
 ---
